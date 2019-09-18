@@ -1,6 +1,6 @@
 %% AASJournal.bst June 3, 2019
 %%personal revision to add url to bibilography by YINGJIE ZHU @UMICH
-%%Thanks to A&A-bibstyle-with-hyperlink by Chentao Yang on Github
+%%Based on A&A-bibstyle-with-hyperlink by Chentao Yang on Github
 %%https://github.com/yangcht/AA-bibstyle-with-hyperlink
 %%
 %%
